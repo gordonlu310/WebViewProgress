@@ -1,6 +1,6 @@
 Une extension invisible App Inventor qui détecte la progression du chargement de Afficheur Web.
 
-📅 Date de sortie: March 8, 2022 8:20 AM (Aisa/Hong_Kong)
+📅 Date de sortie: March 8, 2022 8:20 AM (Asia/Hong_Kong)
 
 📦 Paquet: com.gordonlu.webviewprogressfr.aix
 
@@ -12,7 +12,7 @@ Une extension invisible App Inventor qui détecte la progression du chargement d
 >
 >![image](https://user-images.githubusercontent.com/88015331/157651340-424af42f-dadc-4db7-a3d5-9f38c020902a.png)
 >
->Cet événement se produit lorsque la progression de Afficheur Web a changé.
+>Cet événement se produit lorsque la progression de AfficheurWeb a changé.
 >
 >*Paramètres:* progres = numéro (int)
 

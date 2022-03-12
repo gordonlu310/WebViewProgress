@@ -3,7 +3,7 @@ An App Inventor non-visible extension that detects the progress loading of the W
 
 Made by Gordon Lu (AICODE). For details, please read my website: https://sites.google.com/view/appinventor-aicode/my-extensions/webviewprogress
 
-:date: Release date: March 8, 2022 8:20 AM (Aisa/Hong_Kong)
+:date: Release date: March 8, 2022 8:20 AM (Asia/Hong_Kong)
 
 :package: Package name: com.gordonlu.webviewprogress.aix
 
